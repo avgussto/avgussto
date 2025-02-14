@@ -1,4 +1,4 @@
-Olá! 👋 Seja bem-vindo ao meu GitHub!
+# Olá! 👋 Seja bem-vindo ao meu GitHub!
 
 Sou apaixonado por tecnologia e dados, e meu objetivo é me tornar um cientista de dados capaz de resolver problemas reais e gerar insights estratégicos. Busco constantemente aprimorar minhas habilidades em análise de dados, machine learning e desenvolvimento de soluções inteligentes.
 Participei de desafios que reforçaram minha capacidade de transformar dados em soluções práticas:
