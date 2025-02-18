@@ -1,4 +1,16 @@
-# Olá! 👋 Seja bem-vindo ao meu GitHub!
+# Olá, eu sou o Sergio! 👋
 
-Sou apaixonado por tecnologia e dados, e meu objetivo é me tornar um cientista de dados capaz de resolver problemas reais e gerar insights estratégicos. Busco constantemente aprimorar minhas habilidades em análise de dados, machine learning e desenvolvimento de soluções inteligentes.
-Aqui no meu GitHub, você encontra projetos que mostram minha evolução em ciência de dados, de análise exploratória a modelagem preditiva. Sempre aberto a novos desafios e colaborações! 🚀
+👩‍💻 Futuro Cientista de Dados
+
+🧠 Sempre estou buscando me envolver cada vez mais com o mundo dos dados
+
+🎓 Formado em Data Science pela FIAP e atualmente cursando a formação de Cientista de Dados da EBAC
+
+🌠 Gosto muito de aprender por meio de projeto e estou sempre aberto a novos desafios
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-augusto-soares/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iluvpiapi/)
+
+## Habilidades
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,sqlserver,databricks,pandas,numpy,tensorflow,sklearn,pbi,azure&titles=true)
